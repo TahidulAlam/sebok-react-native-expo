@@ -61,7 +61,7 @@ const AllDoctors = () => {
               Location: {item.location}
             </Text>
             <Pressable
-              className="bg-emerald-700 w-20 p-1 mt-1 mb-1 rounded-md"
+              className="bg-[#55AD9B] w-20 p-1 mt-1 mb-1 rounded-md"
               onPress={() => router.push(`/doctor/doctorProfile/${item._id}`)}
             >
               <Text className="font-semibold text-white text-center">

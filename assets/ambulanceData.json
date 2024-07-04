@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Ambulance Service 1",
+        "phone": "01900000001",
+        "location": "Dhaka",
+        "availability": "Available"
+    },
+    {
+        "id": 2,
+        "name": "Ambulance Service 2",
+        "phone": "01900000002",
+        "location": "Chittagong",
+        "availability": "Busy"
+    },
+    {
+        "id": 3,
+        "name": "Ambulance Service 3",
+        "phone": "01900000003",
+        "location": "Sylhet",
+        "availability": "Available"
+    },
+    {
+        "id": 4,
+        "name": "Ambulance Service 4",
+        "phone": "01900000004",
+        "location": "Khulna",
+        "availability": "Busy"
+    },
+    {
+        "id": 5,
+        "name": "Ambulance Service 5",
+        "phone": "01900000005",
+        "location": "Rajshahi",
+        "availability": "Available"
+    },
+    {
+        "id": 6,
+        "name": "Ambulance Service 6",
+        "phone": "01900000006",
+        "location": "Barisal",
+        "availability": "Available"
+    },
+    {
+        "id": 7,
+        "name": "Ambulance Service 7",
+        "phone": "01900000007",
+        "location": "Rangpur",
+        "availability": "Busy"
+    },
+    {
+        "id": 8,
+        "name": "Ambulance Service 8",
+        "phone": "01900000008",
+        "location": "Mymensingh",
+        "availability": "Available"
+    },
+    {
+        "id": 9,
+        "name": "Ambulance Service 9",
+        "phone": "01900000009",
+        "location": "Comilla",
+        "availability": "Available"
+    },
+    {
+        "id": 10,
+        "name": "Ambulance Service 10",
+        "phone": "01900000010",
+        "location": "Narayanganj",
+        "availability": "Busy"
+    },
+    {
+        "id": 11,
+        "name": "Ambulance Service 11",
+        "phone": "01900000011",
+        "location": "Gazipur",
+        "availability": "Available"
+    },
+    {
+        "id": 12,
+        "name": "Ambulance Service 12",
+        "phone": "01900000012",
+        "location": "Tangail",
+        "availability": "Busy"
+    },
+    {
+        "id": 13,
+        "name": "Ambulance Service 13",
+        "phone": "01900000013",
+        "location": "Faridpur",
+        "availability": "Available"
+    },
+    {
+        "id": 14,
+        "name": "Ambulance Service 14",
+        "phone": "01900000014",
+        "location": "Kushtia",
+        "availability": "Available"
+    },
+    {
+        "id": 15,
+        "name": "Ambulance Service 15",
+        "phone": "01900000015",
+        "location": "Jessore",
+        "availability": "Busy"
+    },
+    {
+        "id": 16,
+        "name": "Ambulance Service 16",
+        "phone": "01900000016",
+        "location": "Cox's Bazar",
+        "availability": "Available"
+    },
+    {
+        "id": 17,
+        "name": "Ambulance Service 17",
+        "phone": "01900000017",
+        "location": "Noakhali",
+        "availability": "Available"
+    },
+    {
+        "id": 18,
+        "name": "Ambulance Service 18",
+        "phone": "01900000018",
+        "location": "Feni",
+        "availability": "Busy"
+    },
+    {
+        "id": 19,
+        "name": "Ambulance Service 19",
+        "phone": "01900000019",
+        "location": "Patuakhali",
+        "availability": "Available"
+    },
+    {
+        "id": 20,
+        "name": "Ambulance Service 20",
+        "phone": "01900000020",
+        "location": "Bogra",
+        "availability": "Available"
+    },
+    {
+        "id": 21,
+        "name": "Ambulance Service 21",
+        "phone": "01900000021",
+        "location": "Pabna",
+        "availability": "Busy"
+    },
+    {
+        "id": 22,
+        "name": "Ambulance Service 22",
+        "phone": "01900000022",
+        "location": "Dinajpur",
+        "availability": "Available"
+    },
+    {
+        "id": 23,
+        "name": "Ambulance Service 23",
+        "phone": "01900000023",
+        "location": "Nawabganj",
+        "availability": "Available"
+    },
+    {
+        "id": 24,
+        "name": "Ambulance Service 24",
+        "phone": "01900000024",
+        "location": "Sirajganj",
+        "availability": "Busy"
+    },
+    {
+        "id": 25,
+        "name": "Ambulance Service 25",
+        "phone": "01900000025",
+        "location": "Gaibandha",
+        "availability": "Available"
+    },
+    {
+        "id": 26,
+        "name": "Ambulance Service 26",
+        "phone": "01900000026",
+        "location": "Satkhira",
+        "availability": "Available"
+    },
+    {
+        "id": 27,
+        "name": "Ambulance Service 27",
+        "phone": "01900000027",
+        "location": "Jhenaidah",
+        "availability": "Busy"
+    },
+    {
+        "id": 28,
+        "name": "Ambulance Service 28",
+        "phone": "01900000028",
+        "location": "Jamalpur",
+        "availability": "Available"
+    },
+    {
+        "id": 29,
+        "name": "Ambulance Service 29",
+        "phone": "01900000029",
+        "location": "Sherpur",
+        "availability": "Available"
+    },
+    {
+        "id": 30,
+        "name": "Ambulance Service 30",
+        "phone": "01900000030",
+        "location": "Habiganj",
+        "availability": "Busy"
+    },
+    {
+        "id": 31,
+        "name": "Ambulance Service 31",
+        "phone": "01900000031",
+        "location": "Moulvibazar",
+        "availability": "Available"
+    },
+    {
+        "id": 32,
+        "name": "Ambulance Service 32",
+        "phone": "01900000032",
+        "location": "Brahmanbaria",
+        "availability": "Available"
+    },
+    {
+        "id": 33,
+        "name": "Ambulance Service 33",
+        "phone": "01900000033",
+        "location": "Meherpur",
+        "availability": "Busy"
+    },
+    {
+        "id": 34,
+        "name": "Ambulance Service 34",
+        "phone": "01900000034",
+        "location": "Narail",
+        "availability": "Available"
+    },
+    {
+        "id": 35,
+        "name": "Ambulance Service 35",
+        "phone": "01900000035",
+        "location": "Magura",
+        "availability": "Available"
+    },
+    {
+        "id": 36,
+        "name": "Ambulance Service 36",
+        "phone": "01900000036",
+        "location": "Laxmipur",
+        "availability": "Busy"
+    },
+    {
+        "id": 37,
+        "name": "Ambulance Service 37",
+        "phone": "01900000037",
+        "location": "Chandpur",
+        "availability": "Available"
+    },
+    {
+        "id": 38,
+        "name": "Ambulance Service 38",
+        "phone": "01900000038",
+        "location": "Bhola",
+        "availability": "Available"
+    },
+    {
+        "id": 39,
+        "name": "Ambulance Service 39",
+        "phone": "01900000039",
+        "location": "Pirojpur",
+        "availability": "Busy"
+    },
+    {
+        "id": 40,
+        "name": "Ambulance Service 40",
+        "phone": "01900000040",
+        "location": "Jhalokathi",
+        "availability": "Available"
+    },
+    {
+        "id": 41,
+        "name": "Ambulance Service 41",
+        "phone": "01900000041",
+        "location": "Madaripur",
+        "availability": "Available"
+    },
+    {
+        "id": 42,
+        "name": "Ambulance Service 42",
+        "phone": "01900000042",
+        "location": "Shariatpur",
+        "availability": "Busy"
+    },
+    {
+        "id": 43,
+        "name": "Ambulance Service 43",
+        "phone": "01900000043",
+        "location": "Manikganj",
+        "availability": "Available"
+    },
+    {
+        "id": 44,
+        "name": "Ambulance Service 44",
+        "phone": "01900000044",
+        "location": "Munshiganj",
+        "availability": "Available"
+    },
+    {
+        "id": 45,
+        "name": "Ambulance Service 45",
+        "phone": "01900000045",
+        "location": "Narsingdi",
+        "availability": "Busy"
+    },
+    {
+        "id": 46,
+        "name": "Ambulance Service 46",
+        "phone": "01900000046",
+        "location": "Kishoreganj",
+        "availability": "Available"
+    },
+    {
+        "id": 47,
+        "name": "Ambulance Service 47",
+        "phone": "01900000047",
+        "location": "Tangail",
+        "availability": "Available"
+    },
+    {
+        "id": 48,
+        "name": "Ambulance Service 48",
+        "phone": "01900000048",
+        "location": "Bogura",
+        "availability": "Busy"
+    },
+    {
+        "id": 49,
+        "name": "Ambulance Service 49",
+        "phone": "01900000049",
+        "location": "Rangamati",
+        "availability": "Available"
+    },
+    {
+        "id": 50,
+        "name": "Ambulance Service 50",
+        "phone": "01900000050",
+        "location": "Kurigram",
+        "availability": "Available"
+    }
+]

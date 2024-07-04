@@ -3,11 +3,12 @@ import { View } from "react-native";
 import { WebView } from "react-native-webview";
 
 const Index = () => {
-  const url = "https://chat.openai.com/chat"; // Double-check the URL
+  // const url = "https://viptailor.abmgloballtd.com";
 
   return (
-    <View className="flex-1 bg-[#D8EFD3]">
-      <WebView source={{ uri: url }} className="flex-1" />
+    <View className="flex-1 bg-[#D8EFD3] justify-center items-center">
+      {/* <WebView source={{ uri: url }} className="flex-1" /> */}
+      <Text className="text-center font-bold">Coming soon...</Text>
     </View>
   );
 };
